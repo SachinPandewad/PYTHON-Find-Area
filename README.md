@@ -1,8 +1,8 @@
 # PYTHON-Find-Area
 
-## [FIND-AREA-OF-PLANE-GEOMETRY](https://github.com/SachinPandewad/PYTHON-Find-Area/tree/main/FIND-AREA-OF-PLANE-GEOMETRY)
+### [FIND-AREA-OF-PLANE-GEOMETRY](https://github.com/SachinPandewad/PYTHON-Find-Area/tree/main/FIND-AREA-OF-PLANE-GEOMETRY)
 - [CIRCLE](https://github.com/SachinPandewad/PYTHON-Find-Area/tree/main/FIND-AREA-OF-PLANE-GEOMETRY/Circle)
-- -[ELLIPSE](https://github.com/SachinPandewad/PYTHON-Find-Area/tree/main/FIND-AREA-OF-PLANE-GEOMETRY/ELLIPSE)
+- [ELLIPSE](https://github.com/SachinPandewad/PYTHON-Find-Area/tree/main/FIND-AREA-OF-PLANE-GEOMETRY/ELLIPSE)
 - [PARALLELOGRAM](https://github.com/SachinPandewad/PYTHON-Find-Area/tree/main/FIND-AREA-OF-PLANE-GEOMETRY/PARALLELOGRAM)
 - [RECTANGLE](https://github.com/SachinPandewad/PYTHON-Find-Area/tree/main/FIND-AREA-OF-PLANE-GEOMETRY/RECTANGLE)
 - [RIGHT-ANGLED-TRIANGLE](https://github.com/SachinPandewad/PYTHON-Find-Area/tree/main/FIND-AREA-OF-PLANE-GEOMETRY/RIGHT-ANGLED-TRIANGLE)
