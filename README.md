@@ -12,4 +12,7 @@
 - [Triangle](https://github.com/SachinPandewad/PYTHON-Find-Area/tree/main/FIND-AREA-OF-PLANE-GEOMETRY/Triangle)
 
 
-## [Find-Area-of-Solid-Geometry](https://github.com/SachinPandewad/PYTHON-Find-Area/tree/main/Find-Area-of-Solid-Geometry)
+### [Find-Area-of-Solid-Geometry](https://github.com/SachinPandewad/PYTHON-Find-Area/tree/main/Find-Area-of-Solid-Geometry)
+- [Cube](https://github.com/SachinPandewad/PYTHON-Find-Area/tree/main/Find-Area-of-Solid-Geometry/Cube)
+- [Cylinder](https://github.com/SachinPandewad/PYTHON-Find-Area/tree/main/Find-Area-of-Solid-Geometry/Cylinder)
+- [Right-Rectangular-Prism](https://github.com/SachinPandewad/PYTHON-Find-Area/tree/main/Find-Area-of-Solid-Geometry/Right-Rectangular-Prism)
